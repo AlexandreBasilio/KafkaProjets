@@ -1,0 +1,12 @@
+com\demo\App.class
+com\demo\producer\custom\OrderSerializer.class
+com\alex\kafka\avro\serializers\OrderProducer.class
+com\alex\kafka\avro\Order.class
+com\alex\kafka\avro\TruckCoordinates$Builder.class
+com\demo\producer\custom\Order.class
+com\demo\producer\custom\OrderCustomerProducer.class
+com\alex\kafka\avro\serializers\GenericOrderProducer.class
+com\alex\kafka\avro\Order$Builder.class
+com\alex\kafka\avro\TruckCoordinates.class
+com\demo\producer\OrderProducer.class
+com\demo\producer\OrderCallBack.class
